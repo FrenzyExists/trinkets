@@ -5,7 +5,8 @@ All my codes will be uploaded so I can build a portfolio.
 
 <<< Things to do: >>>
 
-⬜ Finish Calculator Project
+⬜ Finish Calculator Project (done!)
+⬜ Start Simple Quiz game
 ⬜ Start Typing Game Project
 ⬜ Start Typing Game Project Two
 ⬜ Start To-Do-List App Project
