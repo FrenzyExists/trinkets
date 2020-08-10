@@ -1,14 +1,6 @@
 # My-Python-Projects
 These are my personal python projects. They are small, but hopefully they will grow.
 
-All my codes will be uploaded so I can build a portfolio.
+Simple trinkets since I was a complete noob, still adding some I had stored and forgot to commit :V
 
-<<< Things to do: >>>
-
-⬜ Finish Calculator Project (done!)
-⬜ Start Simple Quiz game
-⬜ Start Typing Game Project
-⬜ Start Typing Game Project Two
-⬜ Start To-Do-List App Project
-
-So yeah, I got a lot to do. Better start quick.
+You can steal em :)
