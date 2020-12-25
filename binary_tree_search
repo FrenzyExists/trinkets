@@ -1,0 +1,20 @@
+# Binary tree search on a list. Can't remember when I did this, I think it was during Discrete Math
+
+def binary_tree_search(x:int, a:list) -> bool:
+	middle: int =  a[len(a)//2]
+
+
+	while len(a) > 1:
+		if middle == x:
+			return True
+
+		if x > middle:
+			a = a[len(a)//2:]
+
+		elif x < middle:
+			a = a[:len(a)//2]
+
+		middle = a[len(a)//2]
+
+		print(a)
+	return False
