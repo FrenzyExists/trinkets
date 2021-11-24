@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="assets/boi.png">
+   <img src="assets/boi.png" width=200px>
    <h1>Random Trinkkets</h1>
 </p>
 
