@@ -1,6 +1,11 @@
-# My-Python-Projects
-These are my personal python projects. They are small, but hopefully they will grow.
+<p align="center">
+   <img src="assets/boi.png">
+   <h1>Random Trinkkets</h1>
+</p>
 
-Simple trinkets since I was a complete noob, still adding some I had stored and forgot to commit :V
+A small collection of random functions, files, and toys I make when I have nothing better to do.
 
-You can steal em :)
+### TL;DR
+Originally one of my first repos while learning programming in general, specifically a python trinket repo. Now its just random files of different programming language, or something like that.
+
+Not sure if I'll add testers or something, depends on mood (and if i learn how to)
