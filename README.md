@@ -5,7 +5,4 @@
 
 A small collection of random functions, files, and toys I make when I have nothing better to do.
 
-### TL;DR
-Originally one of my first repos while learning programming in general, specifically a python trinket repo. Now its just random files of different programming language, or something like that.
-
-Not sure if I'll add testers or something, depends on mood (and if i learn how to)
+Mostly done in Python. Nothing formal here. If you ever had a trinket and just wanna dump it feel free to do so and leave this repo equivalent to memory hole to rot, as it was meant in the first place
